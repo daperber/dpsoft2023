@@ -8,4 +8,7 @@
 
 ## Felix Conesa Garcia - felix.conesa@edu.upct.es
 
+## Gabriela Mico - rodicagabriela.mico@edu.upct.es
+
 ## Daniel Montoya García - daniel.montoya@edu.upct.es
+
