@@ -7,3 +7,5 @@
 ## Ignacio Cifuentes Bello - ignacio.cifuentes@edu.upct.es
 
 ## Felix Conesa Garcia - felix.conesa@edu.upct.es
+
+## Daniel Montoya García - daniel.montoya@edu.upct.es
