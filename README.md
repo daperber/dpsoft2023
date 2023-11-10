@@ -10,3 +10,5 @@
 
 ## Gabriela Mico - rodicagabriela.mico@edu.upct.es
 
+## Daniel Montoya García - daniel.montoya@edu.upct.es
+
